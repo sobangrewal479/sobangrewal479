@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Soban Grewal
 
-<!--
-**sobangrewal479/sobangrewal479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building AI customer support and product assistant systems for ecommerce and product-based businesses.
 
-Here are some ideas to get you started:
+## Current Focus
+- Python
+- OpenAI API
+- AI chatbots
+- PDF/catalog Q&A assistants
+- Product data chatbots
+- Lead capture automation
+- AI support dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Projects
+Coming soon:
+1. FAQ Chatbot
+2. PDF Q&A Chatbot
+3. Product Data Chatbot
+4. Website AI Support Bot
+5. AI Support Dashboard
+6. Full AI Customer Support MVP
