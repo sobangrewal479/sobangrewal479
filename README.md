@@ -12,10 +12,26 @@ I'm building AI customer support and product assistant systems for ecommerce and
 - AI support dashboards
 
 ## Portfolio Projects
-Coming soon:
-1. FAQ Chatbot
-2. PDF Q&A Chatbot
-3. Product Data Chatbot
-4. Website AI Support Bot
-5. AI Support Dashboard
+
+### 1. Urban Threads FAQ Chatbot
+AI FAQ chatbot for an ecommerce clothing store. It answers common customer support questions from approved FAQ data and safely handles out-of-scope questions.
+
+- GitHub: https://github.com/sobangrewal479/urban-threads-faq-chatbot
+- Demo: https://youtu.be/kVewED4mZgM
+
+### 2. UrbanStride PDF Product Assistant
+PDF-based AI Q&A assistant for an ecommerce footwear business. It answers questions from uploaded product, shipping, returns, warranty, sizing, and shoe-care PDF documents.
+
+- GitHub: https://github.com/sobangrewal479/urbanstride-pdf-assistant
+- Demo: https://youtu.be/-OO_KyrHqq0
+
+### 3. UrbanThread Product Data Chatbot
+Product data chatbot for an ecommerce clothing catalog. It answers product questions using structured data such as size, color, price, stock, and product availability.
+
+- GitHub: https://github.com/sobangrewal479/urbanthread-product-chatbot
+- Demo: https://youtu.be/YjDFajiNMW8
+
+### Coming Next
+4. Website AI Support Bot + Lead Capture  
+5. AI Support Dashboard  
 6. Full AI Customer Support MVP
